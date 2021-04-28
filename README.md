@@ -107,6 +107,8 @@ We use the SSDTTime tool to create these SSDT files. Run the SSDTTime.bat as Adm
 First we need to run the 8th selection [Dump DSDT], then we will need to run the FixHPET, FakeEC, PluginType, AWAC & finally USB-Reset.
 Your SSDTTime/results folder might look something similar to this:
 ![enter image description here](https://github.com/HassanElDessouki/DV3888-Hackintosh/blob/main/pics/VnUkiabvup.jpg?raw=true)
+
+
 Copy only the following files to the EFI/OC/ACPI.
 >SSDT-AWAC.aml
 >SSDT-EC.aml
