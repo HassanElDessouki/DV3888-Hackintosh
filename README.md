@@ -99,9 +99,13 @@ This is what your Kexts folder might look like:
 ## SSDTs
 We will need to create the following SSDT files:
 > SSDT-PLUG
+> 
 > SSDT-EC-USBX
+> 
 > SSDT-AWAC
+> 
 > SSDT-RHUB
+> 
 
 We use the SSDTTime tool to create these SSDT files. Run the SSDTTime.bat as Administrater. You will see the following screen:![SSDTTime Example](https://github.com/HassanElDessouki/DV3888-Hackintosh/blob/main/pics/3Pyp4GrAVt.jpg?raw=true)
 First we need to run the 8th selection [Dump DSDT], then we will need to run the FixHPET, FakeEC, PluginType, AWAC & finally USB-Reset.
