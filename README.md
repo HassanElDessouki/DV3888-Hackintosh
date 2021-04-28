@@ -17,14 +17,23 @@ This guide wil guide you for making your own EFI folder for the Dell Vostro 3888
  
 # What Works:
 Wifi
+
 Bluetooh
+
 Ethernet
+
 CD-ROM
+
 All USB Ports
+
 Front Audio Jack **[Microphone not tested yet]**
+
 Back Audio Jack
+
 HDMI
+
 Sleep
+
 
 # What Doesn't Work:
 > Need to Recheck
