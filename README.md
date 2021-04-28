@@ -111,7 +111,12 @@ Your SSDTTime/results folder might look something similar to this:
 
 Copy only the following files to the EFI/OC/ACPI.
 >SSDT-AWAC.aml
+>
 >SSDT-EC.aml
+>
 >SSDT-HPET.aml
+>
 >SSDT-PLUG.aml
+>
 >SSDT-USB-Reset.aml
+>
