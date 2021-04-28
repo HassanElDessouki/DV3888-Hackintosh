@@ -40,32 +40,50 @@ Sleep
 
 # Not Tested:
 VGA Port
+
 SD Card Reader
+
 
 -------------------------------------------------------
 **How to make your own EFI?**
 First of all, here is the list of the kexts & tools that are needed:
  - **Kext:**
 >[Lilu](https://github.com/acidanthera/lilu/releases)
+>
 [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) [GPU Patches]
+
 [VirtualSMC](https://github.com/acidanthera/virtualsmc/releases)
+
 [AppleALC](https://github.com/acidanthera/AppleALC) [for audio]
+
 [Airportitlwm](https://github.com/OpenIntelWireless/itlwm/releases) [Wifi Card]
+
 [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases) [Bluetooh Card]
+
 [RealtekRTL8111](https://github.com/acidanthera/OpenCorePkg/releases) [Ethernet Port]
+
 
 - **Tools:**
 >[Latest OpenCore Release](https://github.com/acidanthera/OpenCorePkg/releases/) [Bootloader]
+>
 >[macrecovery.py](https://github.com/acidanthera/OpenCorePkg/releases) [Creating macOS installer]
+>
 >[SSDTTime](https://github.com/corpnewt/SSDTTime) [Creating SSDTs]
+>
 >[ProperTree](https://github.com/corpnewt/ProperTree) [Universal plist editor]
+>
 >[GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) [Generating SMBIOS data]
+>
 >[Sample/config.plist](https://github.com/acidanthera/OpenCorePkg/releases) [Sample config.plist]
+>
 --------------------------------------------------------------------------------------------
 ### Creating the installer
 You may follow the OpenCore Dortania guide for making the installer on:
+
 [Windows](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos)
+
 [macOS](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html#downloading-macos-modern-os)
+
 [Linux](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/linux-install.html)
 
 -----
