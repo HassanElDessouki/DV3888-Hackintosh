@@ -50,17 +50,17 @@ First of all, here is the list of the kexts & tools that are needed:
  - **Kext:**
 >[Lilu](https://github.com/acidanthera/lilu/releases)
 >
-[WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) [GPU Patches]
-
-[VirtualSMC](https://github.com/acidanthera/virtualsmc/releases)
-
-[AppleALC](https://github.com/acidanthera/AppleALC) [for audio]
-
-[Airportitlwm](https://github.com/OpenIntelWireless/itlwm/releases) [Wifi Card]
-
-[IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases) [Bluetooh Card]
-
-[RealtekRTL8111](https://github.com/acidanthera/OpenCorePkg/releases) [Ethernet Port]
+>[WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) [GPU Patches]
+>
+>[VirtualSMC](https://github.com/acidanthera/virtualsmc/releases)
+>
+>[AppleALC](https://github.com/acidanthera/AppleALC) [for audio]
+>
+>[Airportitlwm](https://github.com/OpenIntelWireless/itlwm/releases) [Wifi Card]
+>
+>[IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases) [Bluetooh Card]
+>
+>[RealtekRTL8111](https://github.com/acidanthera/OpenCorePkg/releases) [Ethernet Port]
 
 
 - **Tools:**
