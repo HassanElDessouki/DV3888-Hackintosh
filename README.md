@@ -120,6 +120,7 @@ Download all the kexts linked above. Here is the list of kexts which we need
 |itlwm  | airportitlwm.kext [Big Sur Version]|
 |IntelBluetoothFirmware| IntelBluetoothFirmware.kext & IntelBluetoothInjector.kext|
 |Realtek RTL8111|RealtekRTL8111.kext|
+
 This is what your Kexts folder might look like:
 ![Kext Folder](https://github.com/HassanElDessouki/DV3888-Hackintosh/blob/main/pics/T92RmjoODm.jpg?raw=true)
 
